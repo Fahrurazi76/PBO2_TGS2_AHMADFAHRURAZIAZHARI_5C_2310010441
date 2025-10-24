@@ -1,8 +1,0 @@
-# Java
-*.class
-*.jar
-*.war
-*.ear
-/build/
-/dist/
-/nbproject/private/
