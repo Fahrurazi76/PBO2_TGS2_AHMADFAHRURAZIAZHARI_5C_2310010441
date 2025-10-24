@@ -5,10 +5,8 @@ Aplikasi ini dibuat menggunakan NetBeans.
 
  Fitur 
 - Input nilai suhu melalui JTextField
-- Pilihan skala asal: Celcius, Fahrenheit, Kelvin, Reamur
-- Pilihan arah konversi menggunakan JRadioButton
+- Pilihan skala asal: Celcius, Fahrenheit, Kelvin, Reamu
 - Tombol Konversi untuk menampilkan hasil
 - Validasi input agar hanya angka yang bisa dimasukkan
-- Konversi otomatis ke berbagai skala suhu
 
 
